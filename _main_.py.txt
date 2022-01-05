@@ -1,6 +1,10 @@
 monpremiercommit = 1
 mapremierbranche = 0
-mapremierfusion = 1
+<<<<<<< HEAD
+mapremierfusion1 = 1
 mapremiereerreur = 0
+
+mapremierfusion = 0
+mapremiereerreur1 = 1
 jeVaisMalNommerMonProchainCommit = 1
 unicormeMode = 1
