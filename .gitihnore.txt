@@ -1,0 +1,2 @@
+bin
+# un_fichier_exe_qui_pese_3go.txt
