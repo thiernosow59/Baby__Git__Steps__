@@ -1,1 +1,4 @@
-Hello World
+monpremiercommit = 1
+mapremierbranche = 0
+mapremierfusion = 0
+mapremiereerreur = 0
