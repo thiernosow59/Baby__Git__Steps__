@@ -1,6 +1,6 @@
 monpremiercommit = 1
 mapremierbranche = 0
 mapremierfusion = 0
-mapremiereerreur = 0
+mapremiereerreur = 1
 jeVaisMalNommerMonProchainCommit = 1
 unicormeMode = 1
