@@ -2,3 +2,4 @@ monpremiercommit = 1
 mapremierbranche = 0
 mapremierfusion = 0
 mapremiereerreur = 0
+jeVaisMalNommerMonProchainCommit = 1
